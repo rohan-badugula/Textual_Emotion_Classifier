@@ -33,6 +33,7 @@ The Text Emotion Recognition model uses an embedding layer, a bidirectional LSTM
 
 ---
 ## Accuracy and Loss Plots
+
 ![Picture4](https://github.com/rohan-badugula/Textual_Emotion_Classifier/assets/75232973/c441bc45-8c57-418e-8162-ee36e5a2fb57)
 
 **Accuracy:** 73.56% on the validation set.
@@ -47,10 +48,12 @@ Our Text Emotion Recognition model takes a sentence as input and predicts the co
 - Anger
 - Neutral
 - Sadness
+
 ![Picture5](https://github.com/rohan-badugula/Textual_Emotion_Classifier/assets/75232973/fbfb8295-6623-4f35-8fe1-6b843e649921)
 
 ---
 ## Sample Prediction
+
 ![Picture6](https://github.com/rohan-badugula/Textual_Emotion_Classifier/assets/75232973/1d0a1ce1-d7ee-4521-b1d6-a1348a31f172)
 
 ---
@@ -58,6 +61,8 @@ Our Text Emotion Recognition model takes a sentence as input and predicts the co
 To make our Text Emotion Recognition system more accessible and user-friendly, we have implemented a graphical user interface (GUI) using Streamlit. This allows users to easily interact with the model through a web-based interface, without requiring any programming knowledge.
 
 The Streamlit app takes in a sentence as input and then passes it to the Text Emotion Recognition model for prediction. The output emotion label is then displayed on the screen along with a corresponding color code for easy visualization.
+
+
 ![Picture7](https://github.com/rohan-badugula/Textual_Emotion_Classifier/assets/75232973/3003b32f-d007-43c9-97eb-a56566e3c672)
 
 ---
