@@ -37,6 +37,7 @@ The Text Emotion Recognition model uses an embedding layer, a bidirectional LSTM
 ![Picture4](https://github.com/rohan-badugula/Textual_Emotion_Classifier/assets/75232973/c441bc45-8c57-418e-8162-ee36e5a2fb57)
 
 **Accuracy:** 73.56% on the validation set.
+
 ---
 
 ## Result and Output
